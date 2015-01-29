@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.270,=C:\Users\ASUS\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,C:\Users\ASUS\Documents\RAD Studio\Projects\Unit2.h=D:\Project\Electrical-energy\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,C:\Users\ASUS\Documents\RAD Studio\Projects\Unit2.cpp=D:\Project\Electrical-energy\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.416,C:\Users\1\OneDrive\Project\Electrical-energy\Profiling\AQtimeModule1.aqt=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,=C:\Users\1\OneDrive\Project\Electrical-energy\Profiling\AQtimeModule1.aqt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,C:\Users\ASUS\Documents\RAD Studio\Projects\Unit2.dfm=D:\Project\Electrical-energy\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\ASUS\Documents\RAD Studio\Projects\Project2.cbproj=D:\Project\Electrical-energy\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.831,=C:\Users\1\OneDrive\Project\Electrical-energy\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,=C:\Users\1\OneDrive\Project\Electrical-energy\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,=D:\Project\Electrical-energy\Unit2.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

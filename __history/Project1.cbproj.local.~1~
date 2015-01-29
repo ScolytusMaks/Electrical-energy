@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.760,=D:\Project\Electrical-energy\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,=C:\Users\ASUS\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,C:\Users\ASUS\Documents\RAD Studio\Projects\Unit2.cpp=D:\Project\Electrical-energy\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\ASUS\Documents\RAD Studio\Projects\Project2.cbproj=D:\Project\Electrical-energy\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,C:\Users\ASUS\Documents\RAD Studio\Projects\Unit2.dfm=D:\Project\Electrical-energy\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,C:\Users\ASUS\Documents\RAD Studio\Projects\Unit2.h=D:\Project\Electrical-energy\Unit1.h</Transaction>
+    <Transaction>2015.01.09 23:05:21.092,=C:\Users\ASUS\SkyDrive\Project\Electrical-energy\Unit3.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
